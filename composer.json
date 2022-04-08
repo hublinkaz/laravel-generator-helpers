@@ -1,0 +1,27 @@
+{
+    "name": "hublinkaz/laravel-generator-helpers",
+    "description": "Helper functions for laravel generator packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aga Mustafayev",
+            "email": "info@hublink.az"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hublinkaz\\GeneratorHelpers\\": "src/"
+        }
+    },
+    "funding": [
+        {
+            "type": "",
+            "url": ""
+        }
+    ]
+}
